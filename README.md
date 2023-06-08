@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 👋 Hi, I’m @FouadTebi<br>👀 I have an interest in developing my coding and web design skills.<br>👍 I’m currently learning Symfony.<br>🔭 I work on various projects that stimulate my web culture.<br>📫 How to reach me ? You can use my LinkedIn : FOUAD TEBI
 ## 🛜 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fouadtebi/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:fouad.tebi@gmail.com)
 # 💻 Tech Stack:
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
